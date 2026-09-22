@@ -1,0 +1,28 @@
+# Carpetas generadas por Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+Win32/
+ipch/
+*.aps
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.log
+*.tlog
+
+# Archivos de usuario/config local (no deben compartirse entre maquinas)
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Carpeta de salida general de MSBuild
+[Bb]in/
+[Oo]bj/
